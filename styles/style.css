@@ -92,7 +92,7 @@
   font-size: 18px;
   font-weight: normal;
   width: 175px;
-  color: #2f80ed
+  color: #2f80ed;
 }
 
 .two-columns__main-text {
@@ -280,7 +280,6 @@
 
 .kaufman__triangle {
   position: absolute;
-  right: 0;
   top: 0;
   z-index: 0;
   background-image: url(../images/kaufman-triangle.svg);
